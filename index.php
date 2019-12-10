@@ -8,37 +8,16 @@
 	<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
 	<title>Alergênicos</title>
 
+	<link rel="stylesheet" href="./style.css">
+
 </head>
 <body>
-<div id="wrapper">
-	<div id="header" class="container">
-		<div id="logo">
-			<h1><a href="#">Alergênicos</a></h1>
-		</div>
-		<div id="menu">
-			<ul>
-				<li class="current_page_item"><a href="#" accesskey="1" title="">Home</a></li>
-				<li><a href="#" accesskey="2" title="">Clientes</a></li>
-				<li><a href="#" accesskey="3" title=""> Brasil</a></li>
-				<li><a href="#" accesskey="4" title="">Cadastro</a></li>
-				<li><a href="#" accesskey="5" title=""> Contato </a></li>
-			</ul>
-		</div>
-	</div>
-	<div id="banner">&nbsp;</div>
-	<div id="featured">
-		<div class="container">
-			<div class="title">
-				<h2>Segurança Alimentar</h2>
-				<span class="byline">Alergênicos em alimentos dentro do panorama regulatório e da segurança dos alimentos</span> 
-			</div>
-			<p><strong>Alergênicos</strong>, A prevalência de alergias alimentares cresce ao longo dos anos, mobilizando a saúde pública global e localmente, num cenário onde evitar consumir o alimento potencialmente alergênico continua sendo a maneira mais eficaz de prevenir os quadros alérgicos. No Brasil, o movimento “Põe no Rótulo”, conduzido inicialmente por mães de crianças alérgicas, demonstra desde a proximidade do tema com nossa sociedade, a importância da informação correta acessível no rótulo, única ferramenta onde este público pode se apoiar para a seleção correta de seus alimentos.  Gabriela Lopez Velasco, especialista global de Food Safety na 3M, desvenda o panorama regulatório atual de alergênicos em alimentos, contextualizando sua origem e esclarecendo a relevância do caráter preventivo ao olhar para o futuro.</p>
-		</div>
-		<ul class="actions">
-			<li><a href="#" class="button"> Incio</a></li>
-		</ul>
-	</div>
-	<div id="extra" class="container">
+	<?php 
+		include('./includes/menu.php');
+		include('./includes/banner.php');
+	?>
+
+		<div id="extra" class="container">
 		<div class="title">
 			<h2>Programa de Controle de Alergênicos</h2>
 			<span class="byline"> Como e Quando Aplicar</span> </div>
