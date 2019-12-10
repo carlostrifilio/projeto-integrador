@@ -16,11 +16,11 @@
             </div>
             <div id="menu">
                 <ul>
-                    <li class="current_page_item"><a href="#" accesskey="1" title="">Home</a></li>
+                    <li class="current_page_item"><a href="./index.php" accesskey="1" title="">Home</a></li>
                     <li><a href="#" accesskey="2" title="">Consultar produtos</a></li>
                     <li><a href="#" accesskey="3" title="">Cadastrar produtos</a></li>
                     <li><a href="#" accesskey="4" title="">Cadastrar alergenos</a></li>
-                    <li><a href="#" accesskey="5" title="">fazer Login</a></li>
+                    <li><a href="./login.php" accesskey="5" title="">fazer Login</a></li>
                     <li><a href="#" accesskey="5" title="">cadastrar-se </a></li>
                 </ul>
             </div>
