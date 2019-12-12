@@ -188,6 +188,14 @@
 		font-size: 1.7em;
 		color: #6F6F6F;
 	}
+	.box
+	{
+		padding: 3em 2em 2em 2em;
+		border: 1px solid rgba(0,0,0,0.1)
+		border-radius: 8px;
+		text-align: center;
+	}
+	
 	
 	.box1,
 	.box2,
@@ -280,6 +288,9 @@
 		position: absolute;
 		top: 1em;
 		right: 1;
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		font-style: oblique;
+		font-display: 1em;
 	}
 	
 	#menu ul
@@ -312,11 +323,21 @@
 	
 	#menu .current_page_item a
 	{
-		border: 2px solid #79C255;
+		border: 2px solid rgb(172, 85, 194);
 		background: #79C255;
 		border-radius: 6px;
 		color: #FFF;
 	}
+
+	#menu .Login a
+	{
+		border: 2px solid rgb(172, 85, 194);
+		background: rgb(85, 194, 185);
+		border-radius: 6px;
+		color: #FFF;
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		font-style: oblique;	}
+	
 	
 	#banner
 	{
@@ -418,13 +439,6 @@
 		color: rgba(255,255,255,.6);
 	}
 
-.box
-{
-	padding: 3em 2em 2em 2em;
-	border: 1px solid rgba(0,0,0,0.1);
-	border-radius: 8px;
-		text-align: center;
-}
 
 
 	#extra
