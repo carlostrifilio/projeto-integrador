@@ -8,20 +8,29 @@
   <body>     
 
 <main class="container">
-  <form action=" " method="post">
-      <form>
-        <div class="form-group col-md-6">
-        <label for="Email">Email</label>
-        <input type="email" class="form-control" id="email" placeholder="">
-      </div>
-      <div class="form-group col-md-6">
-        <label for="Senha">Senha</label>
-        <input type="password" class="form-control" id="senha" placeholder="">
-      </div>
+
+    <div>
+        <img src="./images/bis-foto.jfif" class="rounded mx-auto d-block border border-success" alt="...">
+    </div>
+
+<form action=" " method="post">
+    <form>
+    <div class=" form-row">
+    <div class="form-group col-md-10">
+      <label for="NomeProduto">Nome do Produto</label>
+      <input type="text" class="form-control" id="NomeProduto" placeholder="">
+    </div>
+     <div class="form-group col-md-10">
+      <label for="Codigodebarras">Codigo de barras</label>
+      <input type="text" class="form-control" id="Codigodebarras" placeholder="">
+    </div>
+     <div class="form-group col-md-10">
+      <label for="Ingredientes">Ingredientes</label>
+      <input type="Ingredientes" class="form-control" id="Ingredientes" placeholder="">
     </div>
   </div>
-    <button type="submit" class="btn btn-primary">Logar</button>
-  </form>
+  <button type="submit" class="btn btn-primary">Enviar</button>
+</form>
 
 
 
