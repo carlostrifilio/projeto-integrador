@@ -20,7 +20,7 @@
                     <li><a href="#" accesskey="2" title="">Consultar produtos</a></li>
                     <li><a href="#" accesskey="3" title="">Cadastrar produtos</a></li>
                     <li><a href="#" accesskey="4" title="">Cadastrar alergenos</a></li>
-                    <li><a href="#" accesskey="5" title="">fazer Login</a></li>
+                    <li><a href="./login.php" accesskey="5" title="">fazer Login</a></li>
                     <li><a href="./cadastro.php" accesskey="5" title="">cadastrar-se </a></li>
                 </ul>
             </div>
