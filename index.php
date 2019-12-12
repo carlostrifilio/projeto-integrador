@@ -25,9 +25,6 @@
                 </div>
                 <p><strong>Alergênicos</strong>, A prevalência de alergias alimentares cresce ao longo dos anos, mobilizando a saúde pública global e localmente, num cenário onde evitar consumir o alimento potencialmente alergênico continua sendo a maneira mais eficaz de prevenir os quadros alérgicos. No Brasil, o movimento “Põe no Rótulo”, conduzido inicialmente por mães de crianças alérgicas, demonstra desde a proximidade do tema com nossa sociedade, a importância da informação correta acessível no rótulo, única ferramenta onde este público pode se apoiar para a seleção correta de seus alimentos.  Gabriela Lopez Velasco, especialista global de Food Safety na 3M, desvenda o panorama regulatório atual de alergênicos em alimentos, contextualizando sua origem e esclarecendo a relevância do caráter preventivo ao olhar para o futuro.</p>
             </div>
-            <ul class="actions">
-                <li><a href="#" class="button"> Inicio</a></li>
-            </ul>
         </div>
 
 		<div id="extra" class="container">
@@ -36,24 +33,22 @@
 			<span class="byline"> Como e Quando Aplicar</span> </div>
 		<div id="three-column">
 			<div class="boxA">
-				<div class="box"> <span class="fa fa-cloud-download"></span>
+				<div class="box">
 					<p>	Cerca de 5 milhões de crianças no Brasil têm intolerância à lactose ou alergia à proteína do leite de vaca. Apesar disso, a rotulagem de alérgenos não é lei e nossos rótulos são incompletos</p>
 				</div>
 			</div>
 			<div class="boxB">
-				<div class="box"> <span class="fa fa-cogs"></span>
+				<div class="box">
 					<p>Cerca de 5 milhões de crianças no Brasil têm intolerância à lactose ou alergia à proteína do leite de vaca. Apesar disso, a rotulagem de alérgenos não é lei e nossos rótulos são incompletos</p>
 				</div>
 			</div>
 			<div class="boxC">
-				<div class="box"> <span class="fa fa-user"></span>
+				<div class="box">
 					<p>Cerca de 5 milhões de crianças no Brasil têm intolerância à lactose ou alergia à proteína do leite de vaca. Apesar disso, a rotulagem de alérgenos não é lei e nossos rótulos são incompletos</p>
 				</div>
 			</div>
 		</div>
-		<ul class="actions">
-			<li><a href="#" class="button"> Inicio</a></li>
-		</ul>
+		
 	</div>
 	<div id="page" class="container">
 		<div class="title">

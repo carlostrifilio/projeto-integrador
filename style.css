@@ -8,7 +8,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #79C255;
+		background: rgb(247, 248, 248);
 		font-family: sans-serif;
 		font-size: 11pt;
 		font-weight: 200;
@@ -169,7 +169,7 @@
 		text-transform: uppercase;
 		font-weight: 400;
 		font-size: 1em;
-		color: #FFF;
+		color: rgb(73, 20, 20);
 	}
 		
 	.title
@@ -290,7 +290,6 @@
 		right: 1;
 		font-family: Georgia, 'Times New Roman', Times, serif;
 		font-style: oblique;
-		font-display: 1em;
 	}
 	
 	#menu ul
@@ -388,7 +387,7 @@
 	#copyright
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 1em 0em;
 		border-top: 1px solid rgba(255,255,255,0.08);
 	}
 	
@@ -402,7 +401,7 @@
 	#copyright a
 	{
 		text-decoration: none;
-		color: rgba(255,255,255,0.8);
+		color: rgba(26, 177, 26, 0.8);
 	}
 
 	#featured
@@ -424,7 +423,7 @@
 		background: #FFF;
 		margin-top: 3em;
 		font-size: 1em;
-		color: #79C255;
+		color: rgb(216, 230, 209);
 	}
 
 
@@ -454,7 +453,7 @@
 	
 	#extra .button
 	{
-		margin-top: 5em;
+		margin-top: 3em;
 	}
 	
 	#extra .fa
