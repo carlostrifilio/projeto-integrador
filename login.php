@@ -8,22 +8,20 @@
   <body>     
 
 <main class="container">
-
-
-<form action=" " method="post">
-    <form>
+  <form action=" " method="post">
+      <form>
+        <div class="form-group col-md-6">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="email" placeholder="">
+      </div>
       <div class="form-group col-md-6">
-      <label for="Email">Email</label>
-      <input type="email" class="form-control" id="email" placeholder="">
-    </div>
-    <div class="form-group col-md-6">
-      <label for="Senha">Senha</label>
-      <input type="password" class="form-control" id="senha" placeholder="">
+        <label for="Senha">Senha</label>
+        <input type="password" class="form-control" id="senha" placeholder="">
+      </div>
     </div>
   </div>
-</div>
-  <button type="submit" class="btn btn-primary">Enviar</button>
-</form>
+    <button type="submit" class="btn btn-primary">Logar</button>
+  </form>
 
 
 
