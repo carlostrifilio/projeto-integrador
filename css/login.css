@@ -4,8 +4,5 @@
 }
 
 main {
-    display: grid;
     background-color: #ffffff;
-    padding: 100px;
-    margin: auto 0;
 }
