@@ -13,7 +13,8 @@
                         <li><a href="./cad_produtos.php" accesskey="3" title="">Cadastrar produtos</a></li>
                         <li><a href="#" accesskey="4" title="">Cadastrar alergenos</a></li>
                         <li><a href="./cadastro.php" accesskey="5" title="">Cadastre-se</a></li>
-                        <li class="Login"><a href="./login.php" accesskey="5" title="">Login </a></li>
+                        <li><a href="./testes.php" accesskey="5" title="">Saiba se você tem<br> intolerancia alimentar</a></li>
+                        <li class="Login"><a href="./login.php" accesskey="6" title="">Login </a></li>
                     </ul>
                 </div>
             </nav>
